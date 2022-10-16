@@ -185,7 +185,7 @@ a {
 }
 
 .project-card:hover .project-img {
-    filter: blur(20px) brightness(50%);
+    /* code here */
 }
 
 .project-card:hover .project-content {
@@ -204,7 +204,6 @@ a {
 
 .about {
     width: 100%;
-    display: grid;
     grid-template-columns: 30% 65%;
     grid-gap: 40px;
 }
